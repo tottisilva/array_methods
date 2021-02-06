@@ -1,0 +1,4 @@
+O filter , faz com peguemos numa array e selecionamos dentro dessa array os dados que queremos. 
+O filter leva uma callback function , e na callback usamos o nome do que quermos filtrar.
+E o que queremos é é receber os dados especificos do que estamos a filtrar
+Assim usamos o return para receber esses dados 

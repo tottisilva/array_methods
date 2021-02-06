@@ -1,0 +1,2 @@
+O que o map faz é ir em cada array do objecto e transformar cada item dentro do array
+Então o resultado será outro Array com os itens tranformados do Array original

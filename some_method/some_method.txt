@@ -1,0 +1,2 @@
+O metodo dome é utilizado quando um item de uma Array encontra alguma condição
+Normalmente o resultado será booleano (true ou false) conforme a condição que apresentamos

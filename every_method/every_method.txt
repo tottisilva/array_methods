@@ -1,0 +1,4 @@
+O método every consiste em criar uma condição e essa condição vai fazer um check aos itens dentro do Objectos.
+Será um return booleano por isso dá para como neste exemplo:
+será que todos as personagens teem olhos azuis? 
+Sendo uma forma simples de explicar mas é uma ideia sobre este método

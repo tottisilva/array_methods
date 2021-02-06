@@ -1,0 +1,8 @@
+O método sort permite que tenhamos acesso a um item atavés da sua classe , nome etc.
+Com este método podemos receber dados de um objecto como por exemplo :
+pela sua altura , ou pelo seu peso etc.
+No método sort usamos a compare function , que leva 2 parametros
+Na compare function deve ser returnado negative , zero ou positive 
+Quando o sort function compara dois valores , ele envia os valores para a compare function,
+e faz o sort de acordo com os valores returnados (negative, zero, positive).
+Por exemplo se o valor "a" é negativo ele é "sorted" antes do "b"

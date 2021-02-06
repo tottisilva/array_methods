@@ -1,0 +1,4 @@
+O reduce method podemos ir dentro de cada item do array e obter um resultado
+Um exemplo é se queremos calcular o total da massa de todos os caracters
+Portanto isto é como um acomulador de dados
+O que necessitamos é uma callback function que tem como parametros o acumulador "acc" e o current value "cur", e o segundo parâmetro é o inicio do acumulador (normalmente é 0 , mas pode ser qualquer valor)
